@@ -1,0 +1,23 @@
+.heading{
+  color: red;
+}
+
+.main-container{
+  height: 100vh; 
+  width: 100vw;
+  background-size: cover;  
+  background-color: black;
+  overflow: auto;
+  
+} 
+.prev-btn{
+  background-color: white; 
+  border-radius: 15px;
+  margin: 5px;
+  color: black;
+} 
+
+.nxt-btn{
+  background-color: lightgreen;
+}
+

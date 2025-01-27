@@ -1,0 +1,34 @@
+.form-container{
+    display: flex; 
+    flex-direction: row; 
+    justify-content: flex-end; 
+    align-items: flex-end;
+}
+
+label{
+    color: white; 
+} 
+input{
+    margin-bottom: 10px;
+}
+
+.form-styling{
+    margin-left: 30px;
+}
+
+.submit-button{
+    background-color: lightskyblue; 
+    border-radius: 15px;
+}
+
+button{
+    border-radius: 15px; 
+    background-color: lightcoral;
+    color: white;
+}
+
+.addUser-heading{
+    color: white; 
+    font-size: 15px; 
+    font-family:Arial, Helvetica, sans-serif;
+}
